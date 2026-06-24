@@ -1,6 +1,7 @@
 name: Build EssentialsX
 
 on:
+  workflow_dispatch:
   push:
     branches:
     - 2.x
